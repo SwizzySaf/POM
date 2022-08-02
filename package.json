@@ -1,0 +1,21 @@
+{
+  "name": "pom",
+  "version": "1.0.0",
+  "description": "POM (Process & Ownership Model) is a cryptographic sign-off system for handling mission critical procedures",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "SwizzySaf",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "inquirer": "^9.0.2"
+  }
+}
